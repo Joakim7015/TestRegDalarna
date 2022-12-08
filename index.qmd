@@ -1,0 +1,27 @@
+---
+
+---
+
+![](images/Sk%C3%A4rmklipp-01.PNG)
+
+![](images/Stadsbild_natt.PNG){width="675"}
+
+REGIONAL UTVECKLINGSSTRATEGI 2021-2030
+
+Dalarna står inför stora samhällsutmaningar, som i många stycken delas med övriga Sverige, Europa och världen. För att möta utmaningarna krävs kraftsamling, och det behöver ske nu. D
+
+Med Dalastrategin som gemensam bas samhandlar vi mot 2030 och ett hållbart Dalarna med utvecklingskraft i alla delar av länet.
+
+Kommunerna
+
+![](images/karta.PNG){width="365"}
+
+```{r}
+
+```
+
+<https://www.regiondalarna.se/contentassets/699fddaa79da4978bfe14dd4bead1134/dalastrategin-2030-tillsammans-for-ett-hallbart-dalarna-dec.pdf>
+
+---
+Title: Den Regionala utvecklingsstrategin
+---
